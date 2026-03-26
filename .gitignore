@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Docker
+*.env
+
+# OS
+.DS_Store
